@@ -5,7 +5,7 @@
 
 Answere:when a project is delivered on time,the client are always satisfied in otherword it ensure customer's satisfaction.
 it also increases clients confidence for the team or organization, it maintains budget.
-the project manager can ensure the deadlines are met by setting good plane by defining the project scope, breaking work down into manageable sprint, make sure to communicate effectively with thhe team. the PM can also adopt agile methodologies ,also make sure the right number of people are available for the project.
+the project manager can ensure the deadlines are met  by defining the project scope, breaking work down into manageable sprint, make sure to communicate effectively with thhe team. the PM can also adopt agile methodologies ,also make sure the right number of people are available for the project.
 
 
 
@@ -17,26 +17,27 @@ how to prevent over budget: the first is a good budget planning, cheking regular
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
 ANSWERE: both waterfall and agile methodologies are software development methodologies used to manage projects.
-waterfall is linear,each phase of the project must be completed befor starting another starts, and it is more like a a static project where the requirement won't change, it requires extensive planning before development while agile is more flexible and focuses on small rapid cycle called sprint,agile agile is more like  dynamic project  where its reqirements are incremental, planing is continious in agile because agile can adapt to changes unlike wwaterfall.
+waterfall is linear,each phase of the project must be completed befor starting another, and it is more like a a static project where the requirement won't change, it requires extensive planning before development while agile is more flexible and focuses on small rapid cycle called sprint,agile is more like  dynamic project  where its reqirements are incremental, planing is continious in agile because agile can adapt to changes unlike waterfall.
 
 avantage of agile:it is flexible,it easily adapt to changes and allows modification.
 disadvantage:it can lead to budget overrun.
 
 advantage of waterfall:works with a fixed budget.
-disadvantage: it delays product delivery.
+disadvantage: it delays in product delivery.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
-ANSWERE: agile is more beneficial in projects that requires changes  in customer's needs,projects that reqires contineous improvement e.g e-commerce, social media app
-while waterfall is beneficila in projects that has a clear and static reqirement that won't change e.g healthcare app 
+ANSWERE: agile is more beneficial in projects that requires changes  ,projects that reqires contineous improvement e.g e-commerce, social media app
+while waterfall is beneficila in projects that has a clear and static reqirement that won't change e.g healthcare app etc
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
 ANSWERE: effective planning
-definning  the project scope, clearly defind all the project requirement to avoid scop creep. effevtive analysis, contineous monitoring and effective communication.
+definning  the project scope, clearly define all the project requirement to avoid scop creep. effevtive analysis, contineous monitoring and effective communication.
 
 its important to maintain a high standard because it builds trust
 and confidents in the product users, it also reduces cost, poor quality can lead to budget overrun, etc
