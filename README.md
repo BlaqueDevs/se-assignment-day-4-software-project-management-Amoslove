@@ -12,13 +12,35 @@ the project manager can ensure the deadlines are met by setting good plane by de
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
-ANSWERE:iffective cost control prevent over budget that is bufget overrun,it ensures fast completion of the project.it also prevents shortage of funds.
+ANSWERE:iffective cost control prevent budget overrun,it ensures fast completion of the project.it also prevents shortage of funds.
+how to prevent over budget: the first is a good budget planning, cheking regularly what has been spent so far and keep expenses under control
+
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+ANSWERE: both waterfall and agile methodologies are software development methodologies used to manage projects.
+waterfall is linear,each phase of the project must be completed befor starting another starts, and it is more like a a static project where the requirement won't change, it requires extensive planning before development while agile is more flexible and focuses on small rapid cycle called sprint,agile agile is more like  dynamic project  where its reqirements are incremental, planing is continious in agile because agile can adapt to changes unlike wwaterfall.
+
+avantage of agile:it is flexible,it easily adapt to changes and allows modification.
+disadvantage:it can lead to budget overrun.
+
+advantage of waterfall:works with a fixed budget.
+disadvantage: it delays product delivery.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
+ANSWERE: agile is more beneficial in projects that requires changes  in customer's needs,projects that reqires contineous improvement e.g e-commerce, social media app
+while waterfall is beneficila in projects that has a clear and static reqirement that won't change e.g healthcare app 
+
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+ANSWERE: effective planning
+definning  the project scope, clearly defind all the project requirement to avoid scop creep. effevtive analysis, contineous monitoring and effective communication.
+
+its important to maintain a high standard because it builds trust
+and confidents in the product users, it also reduces cost, poor quality can lead to budget overrun, etc
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
