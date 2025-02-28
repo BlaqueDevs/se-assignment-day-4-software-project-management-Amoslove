@@ -42,11 +42,37 @@ its important to maintain a high standard because it builds trust
 and confidents in the product users, it also reduces cost, poor quality can lead to budget overrun, etc
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+ANSWERE: having a project scope prevents scope creep, there is clear communication on what to expect in the project,it also helps the team to meet up with project standard.
+work breakdown structure: is the steps reqired to complete a tast,its breaking the project into smaller parts for easy execution.
+it is useful because it provides a clear roadmap for the project execution,it also helps to asign responsibilities to the team.
+it allows better dudget planning and also for progress tracking
+ 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+ANSWERE:detailed project schedule helps the team to stay on track,and deliver on time it also helps to prevent budget overrun and also helps in progress tracking.
+
+gantt chart assist by displaying the project schedule in a format that makes it easy to know what is to be done and when to do it.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+ANSWERE:the software should address a particular problem that audience are facing they could include lack of job opportunities,high cost etc,these problms are significant to the targeted audience because the solution should align with their needs
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+ANSWERE: clearly defining a problem helps you work or develope based on real user problems and not based on assumption.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving  into tnechnical details?
-## 11. What are the main features or functionalities that make your software stand out?fuj
+
+ANSWERE: YOU can do that either by pitch deck or technical writing.communicating the solution effectively
+
+## 11. What are the main features or functionalities that make your software stand out?
+
+ANSWERE:user friendly design/interface, jobs recomedations by AI driven tools, great insight for captures audience attention like jobs vacancies and job suggestions etc
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+ANSWERE:
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+ANSWERE:it helps you to strategise for expansion,it helps you build a a different and better software from the competitors,it helps you to spot unmet needs and cover the gap
 
